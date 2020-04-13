@@ -11,5 +11,6 @@
 * Adjustable wrench (for printer head removal)
 * Goggles (avoid getting molten filament bursting onto you by a blocked pressurized nozzle)
 
+* Deburring Tool (optional)
 * Large set of geometry set with study compass set etc. https://www.amazon.com/Mr-Compass-Protractor-Geometry-Students/dp/B01F4HU076 (optional)
 * Glue Stick (optional)
