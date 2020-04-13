@@ -1,7 +1,7 @@
 # 3D printing and designing notes/essentials
 
 ## Useful Kit to have:
-* Isopropyl alcohol above 90%+ (where available). Usually you can be found it in a pharmacy (in Germany at least). Used to clean print surfaces when using PLA. (https://help.prusa3d.com/en/article/pei-print-surface-preparation_2203)
+* Isopropyl alcohol, above 90%+ (where available). Usually you can be found it in a pharmacy (in Germany at least). Used to clean print surfaces when using PLA. (https://help.prusa3d.com/en/article/pei-print-surface-preparation_2203)
 * Digital Calliper/Vernier Calliper
 * Socket Set or spanner set (needed to remove/replace the print head)
 * Replacement print heads
